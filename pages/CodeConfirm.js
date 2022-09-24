@@ -17,10 +17,7 @@ function CodeConfirm(){
 				<input 
 					type="text"
 					style={{
-						width:"100%",
-						border:"none",
-						textAlign:"center",
-						outline:"none"
+						
 					}}
 				/>
 				<p className="mt-2">
@@ -28,7 +25,7 @@ function CodeConfirm(){
 				</p>
 			</div>
 
-			<Link href="/allow_notification">
+			<Link href="/AllowNotification">
 				<a className="primaryBtn d-flex align-items-center mt-2">
 					Next <img src="/images/nextArrowIcon.svg" alt="" className="ml-1"/>
 				</a>
