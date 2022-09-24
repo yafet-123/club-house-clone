@@ -12,7 +12,7 @@ function Profile(props){
 			<div className={styles.profileContainer}>
 				<div className={exploreStyles.header}>
 					<div className={`${exploreStyles.head} text-right mb-0`}>
-						<Link href="/home">
+						<Link href="/Home">
 							<img 
 								src="/images/arrow.png"
 								alt=""

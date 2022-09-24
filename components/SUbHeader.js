@@ -5,7 +5,7 @@ import Link from 'next/link'
 function SubHeader(props){
 	return(
 		<div className={styles.head}>
-			<Link href"/home">
+			<Link href="/Home">
 				<img src="/images/arrow.png" alt="" />
 			</Link>
 			<h3>{props.pageTitle}</h3>
