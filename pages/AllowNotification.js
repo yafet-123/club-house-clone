@@ -17,11 +17,11 @@ function AllowNotification(){
 					</div>
 
 					<div className={styles.action_btn}>
-						<a href="/home">
+						<a href="/Home">
 							Don't Allow
 						</a>
 
-						<a href="/home">
+						<a href="/Home">
 							Allow
 						</a>
 
